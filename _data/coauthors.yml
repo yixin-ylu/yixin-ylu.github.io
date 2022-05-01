@@ -1,18 +1,11 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Rothkopf":
+  - firstname: ["Constantin", "C."]
+    url: https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Zhao":
+  - firstname: ["Huaiyong", "H."]
+    url: https://scholar.google.com/citations?user=VxxD_twAAAAJ&hl=en&oi=ao
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Schultheis":
+  - firstname: ["Matthias", "M."]
+    url: https://scholar.google.com/citations?user=JqD6llUAAAAJ&hl=en&oi=ao

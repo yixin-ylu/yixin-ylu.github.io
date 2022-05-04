@@ -35,6 +35,11 @@
     url: https://en.wikipedia.org/wiki/Max_Planck
 =======
 "Schultheis":
+<<<<<<< HEAD
   - firstname: ["Matthias", "M."]
     url: https://scholar.google.com/citations?user=JqD6llUAAAAJ&hl=en&oi=ao
 >>>>>>> eb11fc6 (First update)
+=======
+  - firstname: ["Matthias", "M.", "Matthias*"]
+    url: https://scholar.google.com/citations?user=JqD6llUAAAAJ&hl=en&oi=ao
+>>>>>>> ed372c9 (Add alias for coauthorship)

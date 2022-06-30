@@ -6,7 +6,7 @@ title: teaching
 nav: true
 ---
 
-# Courses
+## courses
 - Summer 2022: Statistical modeling for cognitive science
 - Summer 2022: Computer-based data analysis
 - Winter 2021: Statistical modeling for psychology
@@ -16,6 +16,6 @@ nav: true
 - Summer 2020: Experimental psychology practice
 - Summer 2020: Statistical modeling for cognitive science
 
-# Supervised theses
+## supervised theses
 - Fabian Tatai (MSc): Shooting pucks at targets for money: Economic and sensorimotor decision making during physical object interactions
 - Anna-Maria Kugler (BSc): An investigation of optimality in sensorimotor actions

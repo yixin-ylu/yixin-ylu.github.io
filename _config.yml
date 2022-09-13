@@ -244,6 +244,12 @@ scholar:
 
   query: "@*"
 
+  sort_by: year, month
+  order: descending, descending
+  type_order: [article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+  type_names: {unpublished: working papers, article: journal articles, 
+                conference: conference abstracts}
+
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
 

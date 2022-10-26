@@ -23,4 +23,6 @@ I'm a PhD student in the [Psychology of Information Processing group](https://ww
 
 I am interested in probabilistic models of perception and action. While classical psychophysical experiments have largely focused on simple forced-choice decision-making using independent trials, there is a recent trend towards more naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I use computational modeling techniques including inverse optimal control and Bayesian inference.
 
-[curriculum vitae](https://dominikstrb.github.io/assets/pdf/dominikstraub-cv.pdf)
+Here is my [curriculum vitae](https://dominikstrb.github.io/assets/pdf/dominikstraub-cv.pdf).
+
+I am into [books]( https://www.goodreads.com/dominikstrb), [movies](https://letterboxd.com/enoughisenough/), and cooking.

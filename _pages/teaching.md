@@ -23,4 +23,4 @@ nav_order: 5
 - 2022 - [Fabian Tatai](https://scholar.google.com/citations?user=bc97h3EAAAAJ&hl=en&oi=ao) (MSc thesis), Shooting pucks at targets for money: Economic and sensorimotor decision making during physical object interactions
 - 2022 - Anna-Maria Kugler (BSc thesis), An investigation of optimality in sensorimotor actions
 
-Please [contact me via email](dominik.straub@tu-darmstadt.de) for enquiries about BSc or MSc thesis projects at TU Darmstadt.
+Please [contact me via email](mailto:dominik.straub@tu-darmstadt.de) for enquiries about BSc or MSc thesis projects at TU Darmstadt.

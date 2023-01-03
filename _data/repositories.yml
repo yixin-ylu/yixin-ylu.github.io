@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dominikstrb
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - RothkopfLab/lqg
+  - RothkopfLab/inverse-optimal-control
+  - mackelab/gp-maps-python
+  - JuliaPOMDP/PointBasedValueIteration.jl
+  - RothkopfLab/imgstats-frontiersin
+  - dominikstrb/manuscript-templates
+  - dominikstrb/brrr

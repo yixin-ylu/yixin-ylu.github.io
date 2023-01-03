@@ -24,62 +24,11 @@
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-        {% if entry.type == "thesis" -%}
-          {{reference}}
-        {%- else %}
-          <!-- Title -->
-          <div class="title">{{entry.title}}</div>
-          <!-- Author -->
-          <div class="author">
-          {%- for author in entry.author_array -%}
-            {%- assign author_is_self = false -%}
-            {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-            {%- if author_last_name == site.scholar.last_name -%}
-              {%- if site.scholar.first_name contains author.first -%}
-                {%- assign author_is_self = true -%}
-              {%- endif -%}
-            {%- endif -%}
-            {%- assign coauthor_url = nil -%}
-            {%- if site.data.coauthors[author.last] -%}
-              {%- for coauthor in site.data.coauthors[author.last] -%}
-                {%- if coauthor.firstname contains author.first -%}
-                  {%- assign coauthor_url = coauthor.url -%}
-                  {%- break -%}
-                {%- endif -%}
-              {%- endfor -%}
-            {%- endif -%}
-            
-            {%- if forloop.length == 1 -%}
-              {%- if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>
-              {%- else -%}
-                {{author.last}}, {{author.first}}
-              {%- endif -%}
-            {%- else -%}
-              {%- unless forloop.last -%}
-                {% if author_is_self %}
-                  <em>{{author.last}}, {{author.first}}</em>,&nbsp;
-                {%- else -%}
-                  {% if coauthor_url -%}
-                    <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>,&nbsp;
-                  {%- else -%}
-                    {{author.last}}, {{author.first}},&nbsp;
-                  {%- endif -%}
-                {%- endif -%}
-              {%- else -%}
-                {% if author_is_self -%}
-                  and <em>{{author.last}}, {{author.first}}</em>
-                {% else -%}
-                  {%- if coauthor_url -%}
-                    and <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>
-                  {% else -%}
-                    and {{author.last}}, {{author.first}}
-                  {%- endif -%}
-                {%- endif -%}
-              {%- endunless -%}
-            {%- endif -%}
-          {%- endfor %}
-          </div>
+        <!-- Title -->
+        <div class="title">{{entry.title}}</div>
+        <!-- Author -->
+        <div class="author">
+        {% assign author_array_size = entry.author_array | size %}
 
         {% assign author_array_limit = author_array_size %}
         {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
@@ -214,17 +163,11 @@
           {%- if entry.code %}
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
           {%- endif %}
-          {%- if entry.data %}
-            <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data</a>
-          {%- endif %}
           {%- if entry.preprint %}
             <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
           {%- endif %}
           {%- if entry.talk %}
             <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button">Talk</a>
-          {%- endif %}
-          {%- if entry.altmetric %}
-            <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-altmetric-id="{{ entry.altmetric }}" class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-popover="right" data-badge-type="1" style="display:inline"></div>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}

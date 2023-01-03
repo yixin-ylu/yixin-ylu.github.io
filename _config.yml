@@ -71,7 +71,7 @@ gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 scholar_userid: # your Google Scholar ID
 twitter_username: dominikstrb # your Twitter handle
-mastodon_username: neuromatch.social/dominikstrb # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: neuromatch.social/@dominikstrb # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: nU54Q7cAAAAJ # your Google Scholar ID

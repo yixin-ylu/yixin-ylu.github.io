@@ -21,3 +21,7 @@
 "eLife":
   url: https://elifesciences.org/
   color: "#d71d62"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

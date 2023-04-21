@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ## courses
+- Summer 2023 - Statistical modeling for cognitive science
 - Winter 2022 - Statistical modeling for psychology
 - Summer 2022 - Statistical modeling for cognitive science
 - Summer 2022 - Computer-based data analysis

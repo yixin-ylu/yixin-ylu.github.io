@@ -14,7 +14,7 @@
   url: https://journals.sagepub.com/home/qjp
   color: "#027f91"
 
-"FrontPsych":
+"FrontPsychol":
   url: https://www.frontiersin.org/journals/psychology
   color: "#8bc53f"
 
@@ -25,3 +25,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
+
+"PsycholRes":
+  url: https://www.springer.com/journal/426
+  color: "#22b0de"

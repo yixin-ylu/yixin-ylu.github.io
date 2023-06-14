@@ -22,5 +22,3 @@ social: true  # includes social icons at the bottom of the page
 I'm a PhD student in the [Psychology of Information Processing group](https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp) at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
 
 I am interested in probabilistic models of perception and action in naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I use computational modeling techniques including inverse optimal control and Bayesian inference.
-
-I am into [books]( https://www.goodreads.com/dominikstrb), [movies](https://letterboxd.com/enoughisenough/), and cooking.

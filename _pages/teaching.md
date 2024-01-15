@@ -21,7 +21,7 @@ nav_order: 5
 - Summer 2020 - Statistical modeling for cognitive science
 
 ## co-supervised theses
-- 2023 - Tobias Niehues (MSc thesis): Approximate Bayesian Inference of Parametric Cost Functions in Continuous Decision-Making
+- 2023 - [Tobias Niehues](https://scholar.google.com/citations?user=_RNOt8kAAAAJ&hl=en&oi=ao) (MSc thesis): Approximate Bayesian Inference of Parametric Cost Functions in Continuous Decision-Making
 - 2023 - Dominic Eckstein (BSc thesis): Steering a Car to Intercept a Moving Target in Virtual Reality: Do People Change Their Behavior When Being Rewarded?
 - 2022 - Lukas Maninger (BSc thesis): Predicting human similarity judgments with normalizing flows
 - 2022 - [Fabian Tatai](https://scholar.google.com/citations?user=bc97h3EAAAAJ&hl=en&oi=ao) (MSc thesis): Shooting pucks at targets for money: Economic and sensorimotor decision making during physical object interactions

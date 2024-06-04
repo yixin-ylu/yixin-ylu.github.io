@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-My paper "If it looks like online control, it is probably model-based control" with Constantin Rothkopf has been accepted at the [Annual Meeting of the Cognitive Science Society](https://cognitivesciencesociety.org/cogsci-2024/). Preprint coming soon!
+My paper "If it looks like online control, it is probably model-based control" with Constantin Rothkopf has been accepted at the [Annual Meeting of the Cognitive Science Society](https://cognitivesciencesociety.org/cogsci-2024/). [Preprint on PsyArXiv](https://osf.io/preprints/psyarxiv/bfzp6) available now!

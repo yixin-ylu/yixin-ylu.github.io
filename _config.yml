@@ -65,19 +65,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
 linkedin_username: yixinlu # your LinkedIn user name
 scholar_userid: pMaN5YoAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
 orcid_id:  0000-0001-6515-1940 # your ORCID ID
-research_gate_profile: # your profile on ResearchGate
 work_url: # work page URL
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 unsplash_id: # your unsplash id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note:
 

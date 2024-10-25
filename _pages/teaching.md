@@ -17,7 +17,7 @@ nav_order: 2
 - SEED Masterclass: How technology is disrupting advertising (Spring 2022)
 - Faculty Mentor for Undergraduate Research Experience (2018, 2019, 2021)
 
-Please [contact me via email](mailto:yixinlu@gwu.edu) with a recent CV/Resume and a brief research statement for inquiries of potential student research projects.
+For inquiries of potential student research projects, please send me an [email](mailto:yixinlu@gwu.edu) with your most recent CV/Resume and a brief research statement.
 
 ## doctoral student supervision
 - Xi Lin (UC Irvine)

@@ -23,6 +23,6 @@ Please [contact me via email](mailto:yixinlu@gwu.edu) with a recent CV/Resume an
 - Xi Lin (UC Irvine)
 - Philipp Kienscherf (University of Cologne)
 - Lennard Sund (University of Cologne)
-- Francesco Balacco (Erasmus University, first place: VU Amsterdam)
+- Francesco Balacco (Erasmus University, initial placement: VU Amsterdam)
 
 

@@ -4,27 +4,32 @@ permalink: /teaching/
 title: teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-## courses
-- Winter 2023 - Statistical modeling for psychology
-- Summer 2023 - Statistical modeling for cognitive science
-- Winter 2022 - Statistical modeling for psychology
-- Summer 2022 - Statistical modeling for cognitive science
-- Summer 2022 - Computer-based data analysis
-- Winter 2021 - Statistical modeling for psychology
-- Summer 2021 - Experimental psychology practice
-- Summer 2021 - Statistical modeling for cognitive science
-- Winter 2020 - Cognitive science MSc project
-- Summer 2020 - Experimental psychology practice
-- Summer 2020 - Statistical modeling for cognitive science
+## courses taught at GWU
+- Summer 2024 - Foundations of AI (Graduate)
+- Spring 2024 - Python Program Database Applications (Graduate)
+- Spring 2023 - Introduction to Programming (Undergraduate), Python Program Database Applications (Graduate)
+- Summer 2022 - Foundations of AI (Graduate)
+- Spring 2022 - Introduction to Programming (Undergraduate), Python Program Database Applications (Graduate)
+- Summer 2021 - Foundations of AI (Graduate)
+- Spring 2021 - Python Program Database Applications (Graduate)
+- Fall 2020 - Introduction to Programming (Undergraduate)
+- Summer 2020 - Foundations of AI (Graduate)
+- Spring 2020 - Introduction to Programming (Undergraduate)
+- Fall 2019 - Introduction to Programming (Undergraduate), Management Information Systems Technology (Undergraduate)
+- Spring 2019 - Introduction to Programming (Undergraduate)
+- Fall 2018 - Introduction to Programming (Undergraduate), Management Information Systems Technology (Undergraduate)
+- Spring 2018 - Introduction to Programming (Undergraduate)
+- Fall 2017 - Introduction to Programming (Undergraduate), Management Information Systems Technology (Undergraduate)
+- Spring 2017 - Introduction to Programming (Undergraduate), Management Information Systems Technology (Undergraduate)
+- Fall 2016 - Introduction to Programming (Undergraduate)
 
-## co-supervised theses
-- 2023 - [Tobias Niehues](https://scholar.google.com/citations?user=_RNOt8kAAAAJ&hl=en&oi=ao) (MSc thesis): Approximate Bayesian Inference of Parametric Cost Functions in Continuous Decision-Making
-- 2023 - Dominic Eckstein (BSc thesis): Steering a Car to Intercept a Moving Target in Virtual Reality: Do People Change Their Behavior When Being Rewarded?
-- 2022 - Lukas Maninger (BSc thesis): Predicting human similarity judgments with normalizing flows
-- 2022 - [Fabian Tatai](https://scholar.google.com/citations?user=bc97h3EAAAAJ&hl=en&oi=ao) (MSc thesis): Shooting pucks at targets for money: Economic and sensorimotor decision making during physical object interactions
-- 2022 - Anna-Maria Kugler (BSc thesis): An investigation of optimality in sensorimotor actions
+## student engagement activities
+- 2022 - SEED Masterclass: How technology is disrupting advertising
+- 2020 - Cameron Abeel (Undergraduate Reserach Project): Early Access on Game Publishing Platforms
+- 2019 - Daniel Kim (Undergraduate Research Project): Social Media Bias
+- 2018 - Daniel Kim (Undergraduate Research Project): Social Media Bias
 
-Please [contact me via email](mailto:dominik.straub@tu-darmstadt.de) for enquiries about BSc or MSc thesis projects at TU Darmstadt.
+Please [contact me via email](mailto:yixinlu@gwu.edu) for potential student research projects.

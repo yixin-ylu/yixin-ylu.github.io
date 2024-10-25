@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Associate Professor, <a href='https://www.gwu.edu'>George Washington University</a>
-social: true
 
 profile:
   align: left
@@ -17,7 +16,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi there! My name is Yixin Lu, and I am an associate professor in the Information Systems and Technology Management Department at the George Washington University School of Business (GWSB). My research focuses on the following two closely-related questions: (i) How do technological advances impact the decision making of individuals and organizations, and reshape and transform the business landscape? (ii) How to leverage data and analytics to improve decision making in information-rich and time-critical environments? My research has been published in top business/management journals such as Information Systems Research, Management Science, Management Information Systems Quarterly, and Production and Operations Management. I am the winner of the Association of Information Systems (AIS) Impact Award (2020), the AIS Early Career Award (2021), and the INFORMS ISS Design Science Award (2021). 

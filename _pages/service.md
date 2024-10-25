@@ -7,14 +7,14 @@ nav: true
 nav_order: 4
 ---
 
-## Internal Services
+## internal
 - Faculty Senate Representative (Fall 2023 - Present) 
 - CoreFac Committee Member (Fall 2021 - Fall 2023) 
 - Doctoral Committee Member (Fall 2018 - Spring 2022)
 - Coordinator of ISTM Research Seminar (Fall 2018 - Present) 
 - Search Committee Member of ISTM Department (Fall 2017)
 
-## External Services
+## external
 - Journals 
 -- Associate Editor: Information Systems Research (2022 - Present), Decision Sciences (2023 - Present)
 -- Ad-Hoc Senior Editor: Production and Operations Management (2022 - Present)

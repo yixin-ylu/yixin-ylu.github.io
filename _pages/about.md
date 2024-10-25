@@ -6,7 +6,7 @@ subtitle: Associate Professor, <a href='https://www.gwu.edu'>George Washington U
 social: true
 
 profile:
-  align: right
+  align: left
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   # address: >

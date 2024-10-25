@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp'>Psychology of Information Processing, TU Darmstadt</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor, <a href='https://www.gwu.edu'>George Washington University</a>
+social: true
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: true # crops the image to make it circular
   # address: >
   #  <p>555 your office number</p>
@@ -16,9 +17,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in the [Psychology of Information Processing group](https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp) at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
-
-I am interested in probabilistic models of perception and action in naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I use computational modeling techniques including inverse optimal control and Bayesian inference.
+Hi there! My name is Yixin Lu, and I am an associate professor in the Information Systems and Technology Management Department at the George Washington University School of Business (GWSB). My research focuses on the following two closely-related questions: (i) How do technological advances impact the decision making of individuals and organizations, and reshape and transform the business landscape? (ii) How to leverage data and analytics to improve decision making in information-rich and time-critical environments? My research has been published in top business/management journals such as Information Systems Research, Management Science, Management Information Systems Quarterly, and Production and Operations Management. I am the winner of the Association of Information Systems (AIS) Impact Award (2020), the AIS Early Career Award (2021), and the INFORMS ISS Design Science Award (2021). Currently, I am serving as Associate Editor of Information Systems Research, Decision Sciences, and ad-hoc Senior Editor of Production and Operations Management.

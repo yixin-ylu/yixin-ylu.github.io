@@ -65,35 +65,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: dominikstrb # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-scholar_userid: # your Google Scholar ID
-twitter_username: dominikstrb # your Twitter handle
-mastodon_username: neuromatch.social/@dominikstrb # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: nU54Q7cAAAAJ # your Google Scholar ID
-semanticscholar_id: 117610362 # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id:  0000-0001-5263-2622 # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
+github_username: # your GitHub user name
+linkedin_username: yixinlu # your LinkedIn user name
+scholar_userid: pMaN5YoAAAAJ # your Google Scholar ID
+semanticscholar_id: # your Semantic Scholar ID
+orcid_id:  0000-0001-6515-1940 # your ORCID ID
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
 work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
@@ -251,8 +233,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Straub
-  first_name: [Dominik]
+  last_name: Lu
+  first_name: [Yixin]
 
   style: apa
   locale: en

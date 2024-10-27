@@ -3,9 +3,9 @@
   contents:
     - name: Full Name
       value: Yixin Lu
-    - name: Languages
-      value: English, Chinese
-
+    - name: Research Interests
+      value: Business Applications of AI, Digital Health, Mechanism Design, Sustainability
+      
 - title: Education
   type: time_table
   contents:

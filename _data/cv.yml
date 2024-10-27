@@ -42,3 +42,13 @@
     - Information Systems Society (ISS)
     - Production & Operations Management Society (POMS)
     - The Institute for Operations Research and The Management Sciences (INFORMS)
+
+- title: Hobbies
+  type: map
+  contents:
+    - name: Music
+      value: Classical, New Age, Electro House
+    - name: Painting
+      value: Impressionist
+    - name: Sports
+      value: Soccer (watching not playing, lol)

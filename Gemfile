@@ -1,6 +1,3 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.3.0"
+gem "github-pages"
 gem "webrick"
-gem "feedjira"
-gem "httparty"
-gem "jekyll-archives"

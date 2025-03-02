@@ -20,9 +20,11 @@ nav_order: 2
 For inquiries of potential student research projects, please send me an [email](mailto:yixinlu@gwu.edu) with your most recent CV/Resume and a brief research statement.
 
 ## doctoral student supervision
-- Xi Lin (UC Irvine)
-- Philipp Kienscherf (University of Cologne)
-- Lennard Sund (University of Cologne)
 - Francesco Balacco (Erasmus University, initial placement: VU Amsterdam)
+- Philipp Kienscherf (University of Cologne)
+- Xi Lin (UC Irvine)
+- Yixuan Liu (Hong Kong Polytechnic University)
+- Lennard Sund (University of Cologne)
+
 
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher | Educator | Technophile
+subtitle: Researcher | Educator | Thinker
 
 profile:
   align: left

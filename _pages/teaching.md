@@ -22,8 +22,7 @@ For inquiries of potential student research projects, please send me an [email](
 ## doctoral student supervision
 - Francesco Balacco (Erasmus University, initial placement: VU Amsterdam)
 - Philipp Kienscherf (University of Cologne)
-- Xi Lin (UC Irvine)
-- Yixuan Liu (Hong Kong Polytechnic University)
+- Yixuan Liu (Hong Kong Polytechnic University, research visit from Jan. 2025 - Dec. 2025)
 - Lennard Sund (University of Cologne)
 
 

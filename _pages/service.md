@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ## internal
-- Faculty Senate Representative (Fall 2023 - Present) 
+- Faculty Senate Representative (Fall 2023 - Spring 2025) 
 - CoreFac Committee Member (Fall 2021 - Fall 2023) 
 - Doctoral Committee Member (Fall 2018 - Spring 2022)
 - Coordinator of ISTM Research Seminar (Fall 2018 - Present) 
@@ -21,5 +21,5 @@ nav_order: 4
   - Reviewers: Management Science, MIS Quarterly, Information Systems Research, INFORMS Journal on Computing, Production and Operations Management, IISE Transactions, Journal of Management Information Systems
 
 - Conferences
-  - Co-chair: Washington Area IT Symposium (2025), INFORMS Annual Meeting Information Systems Cluster (2024, 2020), Workshop on Information Technologies and Systems (2019, 2016)
+  - Co-chair: Washington Area IT Symposium (2025), INFORMS Annual Meeting Information Systems Cluster (2025, 2024, 2020), Workshop on Information Technologies and Systems (2019, 2016)
   - Associate Editor: International Conference on Information Systems (2022, 2021, 2020, 2019, 2017), Pacific Asia Conference on Information Systems (2017)

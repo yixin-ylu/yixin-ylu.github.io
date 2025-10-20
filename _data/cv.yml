@@ -4,9 +4,9 @@
     - name: Full Name
       value: Yixin Lu
     - name: Research Interests
-      value: AI Applications and Regulations, Market Intelligence, Platform Economy, Socially Responsible Operations
+      value: AI Applications and Regulations, Market Intelligence, Platform Economy, Sustainability
     - name: Research Methods
-      value: Applied Econometrics, Experimentation, Game Theory, Machine Learning, Simulation
+      value: Applied Econometrics, Field Experiments, Game Theory, Machine Learning, Simulation
       
 - title: Education
   type: time_table

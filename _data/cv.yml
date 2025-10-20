@@ -4,18 +4,18 @@
     - name: Full Name
       value: Yixin Lu
     - name: Research Interests
-      value: Business Applications of AI, Digital Health, Mechanism Design, Sustainability
+      value: AI Applications and Regulations, Market Intelligence, Platform Economy, Socially Responsible Operations
       
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Information Systems and Management
+    - title: Ph.D. in Information Systems
       institution: Rotterdam School of Management, Erasmus University, Netherlands
       year: 2014
     - title: M.Sc. in Industrial Mathematics (Cum Laude)
       institution: Eindhoven University of Technology, Netherlands
       year: 2008
-    - title: M.Sc. in Mathematical Modeling and Scientific Computing (Cum Laude)
+    - title: M.Sc. in Scientific Computing (Cum Laude)
       institution: University of Kaiserslautern, Germany 
       year: 2008   
     - title: B.Sc. in Applied Mathematics (with Distinction)

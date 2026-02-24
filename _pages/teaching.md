@@ -22,9 +22,10 @@ For inquiries of potential student research projects, please send me an [email](
 ## doctoral student supervision
 - Francesco Balacco (Erasmus University, initial placement: VU Amsterdam)
 - Xi Lin (UC Irvine, initial placement: Huazhong University of Science and Technology)  
-- Philipp Kienscherf (University of Cologne)
-- Lennard Sund (University of Cologne)
+- Philipp Kienscherf (University of Cologne, graduated with Summa cum laude in Feb. 2026)
 - Yixuan Liu (Hong Kong Polytechnic University, research visit from Jan. 2025 - Dec. 2025)
+- Yu Du (Hong Kong Polytechnic University, research visit from Feb. 2026 - Dec. 2026)
+- Julius Kuhnmann (University of Cologne, research visit from Mar. 2026 - Jun. 2026)
 
 
 

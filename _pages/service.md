@@ -21,5 +21,5 @@ nav_order: 4
   - Reviewers: Management Science, MIS Quarterly, Information Systems Research, INFORMS Journal on Computing, Production and Operations Management, IISE Transactions, Journal of Management Information Systems
 
 - Conferences
-  - Co-chair: Washington Area IT Symposium (2025), INFORMS Annual Meeting Information Systems Cluster (2025, 2024, 2020), Workshop on Information Technologies and Systems (2019, 2016)
+  - Co-chair: Conference on Information Systems and Technology (2026), INFORMS Annual Meeting Information Systems Cluster (2025, 2024, 2020), Washington Area IT Symposium (2025), Workshop on Information Technologies and Systems (2019, 2016)
   - Associate Editor: International Conference on Information Systems (2022, 2021, 2020, 2019, 2017), Pacific Asia Conference on Information Systems (2017)

@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 6
-cv_pdf: yixinlu_cv_20265.pdf
+cv_pdf: yixinlu_cv_2026.pdf
 description: Click on the pdf button on the right for a complete version.
 toc: 
     sidebar: left

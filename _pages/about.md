@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Yixin Lu, and I am an Associate Professor at the [George Washington University](https://www.gwu.edu). I work at the intersection of Information Systems, Economics, and Public Policy by examining the broad impact of technological advances on individuals, organizations, and society. My research has shed light on complex dynamics in both traditional markets and emerging digital platforms, leading to practical insights in market design and operations. 
+Hi there! My name is Yixin Lu, and I am a tenured Associate Professor and Denit Trust Fellow at the [George Washington University](https://www.gwu.edu) [School of Business](https://business.gwu.edu/). I work at the intersection of Information Systems, Economics, and Public Policy by examining the broad impact of technological advances on individuals, organizations, and society. My research has shed light on complex dynamics in both traditional markets and emerging digital platforms, leading to practical insights in market design and operations. 
 
 I believe research can change the world by (i) improving our understanding of how the world functions, and (ii) inspiring new ideas and methods to tackle societal challenges. As such, I always strive to achieve a good balance between scientific rigor and practical relevance in my research endeavors. My scholarly works have been recognized by numerous awards, including the AIS Impact Award (2020), the AIS Early Career Award (2021), the INFORMS ISS Design Science Award (2021). 
 

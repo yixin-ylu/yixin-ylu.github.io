@@ -20,8 +20,8 @@ nav_order: 2
 For inquiries of potential student research projects, please send me an [email](mailto:yixinlu@gwu.edu) with your most recent CV/Resume and a brief research statement.
 
 ## doctoral student supervision
-- Francesco Balacco (Erasmus University, initial placement: VU Amsterdam)
-- Xi Lin (UC Irvine, initial placement: Huazhong University of Science and Technology)  
+- Francesco Balacco (Erasmus University, Assistant Professor at Bocconi University)
+- Xi Lin (UC Irvine, Assistant Professor at Huazhong University of Science and Technology)  
 - Philipp Kienscherf (University of Cologne, graduated with Summa cum laude in Feb. 2026)
 - Yixuan Liu (Hong Kong Polytechnic University, research visit from Jan. 2025 - Dec. 2025)
 - Yu Du (Hong Kong Polytechnic University, research visit from Feb. 2026 - Dec. 2026)

@@ -11,8 +11,9 @@ nav_order: 4
 - Faculty Senate Representative (Fall 2023 - Spring 2025) 
 - CoreFac Committee Member (Fall 2021 - Fall 2023) 
 - Doctoral Committee Member (Fall 2018 - Spring 2022)
-- Coordinator of ISTM Research Seminar (Fall 2018 - Present) 
-- Search Committee Member of ISTM Department (Fall 2017)
+- Mentor of Research Experience for Undergraduate students (Spring 2018 - Fall 2021)
+- Department Faculty Search Committee Member (Fall 2017 - Spring 2022)
+- Department Research Seminar Coordinator (Fall 2016 - Spring 2021) 
 
 ## external
 - Journals 

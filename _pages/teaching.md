@@ -20,12 +20,15 @@ nav_order: 2
 For inquiries of potential student research projects, please send me an [email](mailto:yixinlu@gwu.edu) with your most recent CV/Resume and a brief research statement.
 
 ## doctoral student supervision
-- Francesco Balacco (Erasmus University, Assistant Professor at Bocconi University)
-- Xi Lin (UC Irvine, Assistant Professor at Huazhong University of Science and Technology)  
-- Philipp Kienscherf (University of Cologne, graduated with Summa cum laude in Feb. 2026)
-- Yixuan Liu (Hong Kong Polytechnic University, research visit from Jan. 2025 - Dec. 2025)
 - Yu Du (Hong Kong Polytechnic University, research visit from Feb. 2026 - Dec. 2026)
 - Julius Kuhnmann (University of Cologne, research visit from Mar. 2026 - Jun. 2026)
+- Yixuan Liu (Hong Kong Polytechnic University, research visit from Jan. 2025 - Dec. 2025)
+- Philipp Kienscherf (University of Cologne, 2021-2026, now Manager at EY-Parthenon, Germany)
+- Xi Lin (UC Irvine, 2022-2025, now Assistant Professor at Huazhong University of Science and Technology)  
+- Francesco Balacco (Erasmus University, 2019-2023, now Assistant Professor at Bocconi University)
+
+
+
 
 
 
